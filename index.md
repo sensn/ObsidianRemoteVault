@@ -1,3 +1,6 @@
-- this is my index
+---
+share: true
+---
+this is my index
 - link
 - ![[README]]
