@@ -24,5 +24,6 @@
     "editor:insert-callout",
     "editor:cycle-list-checklist",
     "editor:toggle-comments"
-  ]
+  ],
+  "promptDelete": false
 }

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/README.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Page2.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/README.md",
+            "file": "docs/Page2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/README.md",
+            "file": "docs/Page2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,12 +114,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/README.md"
+            "file": "docs/Page2.md"
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,11 +133,12 @@
   },
   "active": "ef53992012dc9d65",
   "lastOpenFiles": [
-    "docs/Page2.md",
+    "IMG-20230404-WA0007.jpg",
     "docs/Page1.md",
+    "docs/Page2.md",
+    "docs/README.md",
     "docs/index.md",
     "index.md",
-    "docs/README.md",
     "README.md"
   ]
 }
