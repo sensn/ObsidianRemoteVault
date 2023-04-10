@@ -28,3 +28,4 @@ jobs:
           destination-repository-name: 'DigitalGarden'
           user-email: sensn.sound@gmail.com
           target-branch: main
+          target-directory: 'docs/vault'
