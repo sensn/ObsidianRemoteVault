@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-this is my index !!
+THIS is my Index. 
 
 > [!AI]-  Artyfish
 > Fishers art
