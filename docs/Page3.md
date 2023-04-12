@@ -1,4 +1,4 @@
-Remote customized 
+Remote customized SSLllp
 ```lilypond
 % Score1
 \version "2.22.2"
@@ -13,3 +13,4 @@ music = {c' e' g'}
 }
 
 ```
+![[LillyTemplate_Template.preview.png]]!
