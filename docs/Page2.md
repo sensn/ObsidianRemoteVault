@@ -6,4 +6,4 @@ Link to [[Page1| Uno]]
 
 ![[IMG-20230404-WA0007.jpg]]
 
-![[Page3-Score1.preview.png]]
+![[Score1.png]]
