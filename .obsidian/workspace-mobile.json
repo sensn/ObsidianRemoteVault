@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Page2.md",
-                "mode": "preview",
-                "source": true
+                "file": "docs/Page3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Page2.md",
+            "file": "docs/Page3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Page2.md",
+            "file": "docs/Page3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/Page2.md"
+            "file": "docs/Page3.md"
           }
         }
       }
@@ -128,16 +128,35 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ef53992012dc9d65",
   "lastOpenFiles": [
+    "/docs/Page3.md",
+    "docs/tags.md",
+    "docs/assets/css/customization.css",
+    "docs/assets/css/custom_attributes.css",
+    "docs/assets/css/admonition.css",
+    "docs/Page3.md",
+    "/docs/tags.md",
+    "/docs/index.md",
+    "/docs/assets/css/customization.css",
+    "/docs/assets/css/custom_attributes.css",
+    "/docs/assets/css/admonition.css",
+    "docs/notes",
+    "docs/hidden",
+    "docs/assets/meta",
+    "docs/assets/js",
+    "Untitled.md",
+    "docs/Drawing 2023-04-10 17.17.48.excalidraw.md",
     "docs/Page1.md",
-    "docs/Page2.md",
-    "docs/IMG-20230404-WA0007.jpg",
     "docs/README.md",
     "docs/index.md",
+    "docs/Page2.md",
+    "docs/IMG-20230404-WA0007.jpg",
+    "Untitled.canvas",
     "index.md",
     "README.md"
   ]
