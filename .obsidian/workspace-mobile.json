@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -147,6 +147,7 @@
   },
   "active": "8312e6514b8145c7",
   "lastOpenFiles": [
+    "/docs/index.md",
     "/docs/Page3.md",
     "docs/Page1.md",
     "Excalidraw/Drawing 2023-04-12 10.10.40.excalidraw.md",
@@ -162,7 +163,6 @@
     "docs/assets/template/css/misc.css",
     "docs/assets/template/css/img-grids-floats.css",
     "docs/assets/template/css/grid.css",
-    "/docs/index.md",
     "Untitled.canvas",
     "docs/Page3.md",
     "docs/tags.md",
