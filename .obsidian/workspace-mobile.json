@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Page 4.md",
+                "file": "docs/Page3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Page 4.md",
+            "file": "docs/Page3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Page 4.md",
+            "file": "docs/Page3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Page 4.md"
+            "file": "docs/Page3.md"
           }
         }
       }
@@ -147,6 +147,7 @@
   },
   "active": "8312e6514b8145c7",
   "lastOpenFiles": [
+    "docs/Page1.md",
     "docs/Page2.md",
     "Page 4.md",
     "docs/loopermanl3.WAV",
@@ -169,7 +170,6 @@
     "docs/assets/logo",
     "/docs/index.md",
     "/docs/Page3.md",
-    "docs/Page1.md",
     "Excalidraw/Drawing 2023-04-12 10.10.40.excalidraw.md",
     "Excalidraw",
     "docs/assets/template/js/wiki_hover.js",

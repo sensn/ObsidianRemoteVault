@@ -1,4 +1,4 @@
-Remote customized SSLllp
+Lillypond test.
 ```lilypond
 % Score1
 \version "2.22.2"
