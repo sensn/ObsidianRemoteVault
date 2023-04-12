@@ -13,4 +13,3 @@ music = {c' e' g'}
 }
 
 ```
-![[LillyTemplate_Template.preview.png]]!
