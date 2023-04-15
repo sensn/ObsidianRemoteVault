@@ -10,7 +10,7 @@
 <!-- partial:index.partial.html -->
 <div id="container">
 <div>
-  <iframe src="https://codepen.io/kanaparty/full/eJYXeZ/"></iframe>
+  <iframe src="https://sensn.github.io/DigitalGarden/lib/index.html"></iframe>
     </div>
   <div>
     <button class="button">Click me to fullscreen the iframe</button>
