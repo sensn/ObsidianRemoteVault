@@ -9,10 +9,10 @@
 <body>
 <!-- partial:index.partial.html -->
 <div id="container">
-<div>
+
   <iframe src="https://sensn.github.io/DigitalGarden/lib/index.html"></iframe>
-    </div>
-  <div>
+   
+  
     <button class="button">Click me to fullscreen the iframe</button>
   </div>
   <div class="info">You can check keydown event listener when the browser are in fullscreen and press F11 and ESC by console log on developer tools</div
