@@ -1,12 +1,7 @@
 <!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>CodePen - fullscreen mode</title>
-  <link rel="stylesheet" href="../style.css">
 
-</head>
-<body>
+
+
 <!-- partial:index.partial.html -->
 <div id="app">
 </div>
@@ -14,5 +9,6 @@
   <script src='https://cdnjs.cloudflare.com/ajax/libs/react/17.0.2/umd/react.production.min.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/react-dom/17.0.2/umd/react-dom.production.min.js'></script><script  src="../script.js"></script>
 
-</body>
-</html>
+
+
+ 
