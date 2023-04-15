@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-<meta charset="UTF-8">
-<title>CodePen - fullscreen mode</title>
-<link rel="stylesheet" href="../style.css">
-</head>
+this is
 <body>
 <!-- partial:index.partial.html -->
 <div id="app">
