@@ -9,7 +9,7 @@
 <body>
 <!-- partial:index.partial.html -->
 <div id="container">
-  <iframe width="720" height="400" src="https://sensn.github.io/DigitalGarden/lib/index.html"></iframe>
+  <iframe src="https://sensn.github.io/DigitalGarden/lib/index.html"></iframe>
   <div>
     <button class="button">Click me to fullscreen the iframe</button>
   </div>
