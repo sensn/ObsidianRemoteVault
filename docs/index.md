@@ -12,7 +12,7 @@ https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 - [[Page1]]
 - ![[Page2]]
 - 
-- <iframe src="https://github.com/sensn/DigitalGarden/blob/main/docs/lib/index.html"></iframe>
-https://github.com/sensn/DigitalGarden/blob/main/docs/lib/index.html
+- <iframe src="https://sensn.github.io/DigitalGarden/lib/index.html"></iframe>
+https://sensn.github.io/DigitalGarden/lib/
 
 
