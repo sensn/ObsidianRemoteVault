@@ -2,8 +2,11 @@
 share: true
 ---
 THIS is my Index.!????!!!223355
+[html] (./lib/index.html)
 
-[[index.html]]
+
+
+
 
 https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 
@@ -14,3 +17,5 @@ https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 - [[README]]
 - [[Page1]]
 - ![[Page2]]
+
+<iframe src="https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721"></iframe>
