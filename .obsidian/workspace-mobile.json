@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Page1.md",
+                "file": "docs/full/new/Page6.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8312e6514b8145c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Page 4.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Page 4.md",
+            "file": "docs/full/new/Page6.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Page 4.md",
+            "file": "docs/full/new/Page6.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/Page 4.md"
+            "file": "docs/full/new/Page6.md"
           }
         }
       }
@@ -145,36 +132,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8312e6514b8145c7",
+  "active": "ef53992012dc9d65",
   "lastOpenFiles": [
-    "docs/loopermanl3.WAV",
+    "docs/Page1.md",
+    "docs/lib/sketch.js",
+    "docs/lib/p5.min.js",
+    "docs/lib/p5.js",
+    "docs/lib/index.html",
+    "docs/lib/addons/p5.sound.min.js",
+    "docs/lib/addons/p5.sound.js",
+    "docs/lib/README.txt",
+    "docs/full/style.css",
+    "docs/full/script.js",
+    "docs/full/new/Page6.md",
+    "docs/full/index.html",
+    "/docs/index.md",
+    "/docs/full/new/Page6.md",
+    "docs/Page4.md",
+    "/docs/Page1.md",
+    "/docs/Page4.md",
     "docs/Page 4.md",
     "docs/Page3.md",
     "/docs/Page 4.md",
-    "docs/Page1.md",
     "docs/Page2.md",
-    "docs/looperman-l-0171741-0008663-yisraelee-pwl-loop3.WAV",
     "docs/index.md",
     "docs/Score1.png",
-    "docs/Page3pdf.pdf",
     "___Templates/LillyTemplate.md",
     "docs/assets/meta/logo.png",
-    "/docs/assets/css/customization.css",
     "/docs/Score1.png",
-    "/docs/Page3pdf.pdf",
     "/docs/Page2.md",
-    "/docs/Page1.md",
     "/___Templates/LillyTemplate.md",
     "/docs/assets/meta/logo.png",
-    "___Templates",
-    "/___Templates",
     "docs/assets/logo/logo.png",
-    "docs/assets/logo",
-    "/docs/index.md",
     "/docs/Page3.md",
     "Excalidraw/Drawing 2023-04-12 10.10.40.excalidraw.md",
-    "Excalidraw",
-    "docs/assets/template/js/wiki_hover.js",
     "Untitled.canvas",
     "docs/tags.md",
     "/docs/tags.md",
