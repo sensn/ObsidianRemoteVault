@@ -1,8 +1,7 @@
 ---
 share: true
 ---
-THIS is my Index.!????!!!223355
-
+THIS is my Index!!!
 https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 
 > [!AI]-  Artyfish
@@ -20,4 +19,5 @@ https://sensn.github.io/DigitalGarden/lib/
 
 [lib](https://sensn.github.io/DigitalGarden/lib/)
 
-<iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/#/" allowfullscreen></iframe>
+<iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/#/" 
+frameborder="0" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
