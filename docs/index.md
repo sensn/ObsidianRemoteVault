@@ -20,4 +20,4 @@ https://sensn.github.io/DigitalGarden/lib/
 
 [lib](https://sensn.github.io/DigitalGarden/lib/)
 
-<iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/#/" allowfullscreen=""></iframe>
+<iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/#/" allowfullscreen></iframe>
