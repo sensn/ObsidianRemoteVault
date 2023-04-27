@@ -3,6 +3,13 @@ share: true
 ---
 THIS is my Index.!????!!!223355
 
+ %% comment 
+Line
+%%
+
+> [!NOTE]
+> -
+
 https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 
 > [!AI]-  Artyfish
@@ -22,11 +29,8 @@ https://sensn.github.io/DigitalGarden/lib/
 
 <iframe  id="fullscreen" width="720" height="400" scrolling="no" src="https://sensn.github.io/#/" style="border: 1px solid #464646;" allowfullscreen=""  data-external="1"></iframe>
 
-## 
-
 <!-- partial:index.partial.html -->
-
-<div id="fullscreen-trigger">Go Fullscreen</div>
+> [!NOTE] <div id="fullscreen-trigger">Go Fullscreen</div>
 
 <div id="fullscreen1"></div>
 
