@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-THIS is my Index.!????!!!223355
+THIS is my Index.!Poly
 
  %% comment 
 Line
@@ -19,7 +19,7 @@ https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 - [[Page1]]
 - ![[Page2]]
 - 
-<iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/lib/index.html"></iframe>
+<iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/polyweb/index.html"></iframe>
 
 
 https://sensn.github.io/DigitalGarden/lib/
@@ -27,7 +27,7 @@ https://sensn.github.io/DigitalGarden/lib/
 
 [lib](https://sensn.github.io/DigitalGarden/lib/)
 
-<iframe  id="fullscreen" width="720" height="400" scrolling="no" src="https://sensn.github.io/#/" style="border: 1px solid #464646;" allowfullscreen=""  data-external="1"></iframe>
+<iframe  id="fullscreen" width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/polywebwasm/index.html" style="border: 1px solid #464646;" allowfullscreen=""  data-external="1"></iframe>
 
 <div id="fullscreen1">
 
