@@ -1,4 +1,0 @@
-/web/* 
-Cache-Control: no-cache
-/web_wasm/* 
-Cache-Control: no-cache
