@@ -1,21 +1,37 @@
 {
   "main": {
-    "id": "409223da3f541aea",
+    "id": "be8cf060f3f188e5",
     "type": "split",
     "children": [
       {
-        "id": "54399e9673dc9031",
+        "id": "7ab9be8fcb11c26d",
         "type": "tabs",
         "children": [
           {
-            "id": "ef53992012dc9d65",
+            "id": "628bf73636161074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/index.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa613a5424420e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92439d22987e8187",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "excalibrain.md"
               }
             }
           }
@@ -25,11 +41,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d749bee43081a830",
+    "id": "897d4a7dba4b9a35",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "56afd092be23aef1",
+        "id": "a8d379fab77c842d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +55,7 @@
         }
       },
       {
-        "id": "36ddfde4d95c87d5",
+        "id": "8e350ac9e01589eb",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +70,7 @@
         }
       },
       {
-        "id": "b380bdae1737d770",
+        "id": "86ccecf5e4dbb1ef",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,10 +81,10 @@
         }
       },
       {
-        "id": "59175838fcdc75ae",
+        "id": "bf3e722f68f5588c",
         "type": "leaf",
         "state": {
-          "type": "starred",
+          "type": "bookmarks",
           "state": {}
         }
       }
@@ -76,11 +92,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "bc041c922fd1f375",
+    "id": "09571dcca351f141",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "80dad89e6ecd96d8",
+        "id": "756536391d3a316e",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -97,7 +113,7 @@
         }
       },
       {
-        "id": "944371d4ad75b30d",
+        "id": "1632d826b307803a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -109,7 +125,7 @@
         }
       },
       {
-        "id": "078fad672a82f4f1",
+        "id": "1f8edb44e31d48cf",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -119,7 +135,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,47 +148,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef53992012dc9d65",
+  "active": "628bf73636161074",
   "lastOpenFiles": [
-    "/docs/index.md",
-    "/docs/full/new/Page6.md",
-    "docs/Page1.md",
-    "docs/full/new/Page6.md",
+    "excalibrain.md",
     "docs/index.md",
-    "docs/lib/sketch.js",
-    "docs/lib/p5.min.js",
-    "docs/lib/p5.js",
-    "docs/lib/index.html",
-    "docs/lib/addons/p5.sound.min.js",
-    "docs/lib/addons/p5.sound.js",
-    "docs/lib/README.txt",
-    "docs/full/style.css",
-    "docs/full/script.js",
-    "docs/full/index.html",
-    "docs/Page4.md",
-    "/docs/Page1.md",
-    "/docs/Page4.md",
-    "docs/Page 4.md",
-    "docs/Page3.md",
-    "/docs/Page 4.md",
-    "docs/Page2.md",
-    "docs/Score1.png",
-    "___Templates/LillyTemplate.md",
-    "docs/assets/meta/logo.png",
-    "/docs/Score1.png",
-    "/docs/Page2.md",
-    "/___Templates/LillyTemplate.md",
-    "/docs/assets/meta/logo.png",
-    "docs/assets/logo/logo.png",
-    "/docs/Page3.md",
-    "Excalidraw/Drawing 2023-04-12 10.10.40.excalidraw.md",
-    "Untitled.canvas",
+    "Excalidraw/ExcaliBrain Snapshot - index.excalidraw.md",
+    "docs/web_wasm/version.json",
+    "docs/web_wasm/manifest.json",
+    "docs/web_wasm/main.dart.wasm",
+    "docs/web_wasm/main.dart.mjs",
+    "docs/web_wasm/main.dart.js",
+    "docs/web_wasm/index.html",
+    "docs/web_wasm/icons/Icon-maskable-512.png",
+    "docs/web_wasm/icons/Icon-maskable-192.png",
+    "docs/web_wasm/icons/Icon-512.png",
+    "docs/web_wasm/icons/Icon-192.png",
+    "docs/web_wasm/flutter_service_worker.js",
+    "docs/web_wasm/flutter.js",
+    "docs/web_wasm/favicon.png",
+    "docs/web_wasm/canvaskit/skwasm.worker.js",
+    "docs/web_wasm/canvaskit/skwasm.wasm",
+    "docs/web/icons/Icon-maskable-512.png",
+    "docs/web/icons/Icon-maskable-192.png",
+    "docs/web/icons/Icon-512.png",
+    "docs/web/icons/Icon-192.png",
+    "docs/web/favicon.png",
     "docs/tags.md",
-    "/docs/tags.md",
+    "docs/full/new/Page6.md",
+    "docs/Page4.md",
+    "docs/Page3.md",
+    "docs/Page2.md",
+    "docs/Page1.md",
     "docs/Drawing 2023-04-10 17.17.48.excalidraw.md",
-    "docs/README.md",
-    "docs/IMG-20230404-WA0007.jpg",
-    "index.md",
-    "README.md"
+    "___Templates/LillyTemplate.md",
+    "Excalidraw/Drawing 2023-04-12 10.10.40.excalidraw.md"
   ]
 }

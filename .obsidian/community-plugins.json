@@ -1,7 +1,7 @@
 [
   "obsidian-git",
-  "obsidian-mkdocs-publisher",
   "obsidian-excalidraw-plugin",
   "customjs",
-  "dataview"
+  "dataview",
+  "excalibrain"
 ]
