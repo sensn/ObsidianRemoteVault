@@ -1,14 +1,15 @@
 ---
 share: true
 ---
-Port of Polyrytm. WEB WASM 29i
+Port of Polyrytm. WEB WASM 30
 
 %% comment 
 Line
 %%
 
 > [!NOTE]
-> -
+> 
+
 
 https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 
