@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -132,7 +132,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "561f5107cd198640",
+  "active": "287238d8ab42c18b",
   "lastOpenFiles": [
     "docs/assets/meta/favicon.png",
     "docs/assets/meta/logo(1).png",

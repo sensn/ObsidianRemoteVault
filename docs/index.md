@@ -6,7 +6,9 @@ Port of Polyrytm. WEB WASM 1.08
 > [!NOTE]
 > -
 
-> [!AI]-  Artyfish
+Link
+
+> [!AI]-  Artyficial
 > Fishers art
 
 
