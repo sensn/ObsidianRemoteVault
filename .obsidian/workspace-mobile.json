@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
