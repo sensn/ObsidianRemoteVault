@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Port of Polyrytm. WEB WASM 1.06
+Port of Polyrytm. WEB WASM 1.07
  
 > [!NOTE]
 > -
@@ -45,7 +45,7 @@ Port of Polyrytm. WEB WASM 1.06
 // http://stackoverflow.com/questions/8358196/onfullscreenchange-dom-event
 
 var target = document.getElementById("fullscreen");
-var trigger = document.getElementById("fullscreen-trigger2");
+var trigger = document.getElementById("fullscreen-trigger");
 
 trigger.addEventListener("click", function () {
 	if (target.requestFullscreen) target.requestFullscreen();
