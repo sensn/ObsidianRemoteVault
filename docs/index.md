@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Port of Polyrytm. WEB WASM 311
+Port of Polyrytm. WEB WASM 1.0
 
 %% comment 
 Line
@@ -11,17 +11,16 @@ Line
 > 
 
 
-https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
-
 > [!AI]-  Artyfish
 > Fishers art
+> https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 
-- link
+
 - [[Page1]]
 
-
+%%
 <iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/web/index.html"></iframe>
-
+%%
 
 
 [lib](https://sensn.github.io/DigitalGarden/lib/)
@@ -49,7 +48,7 @@ https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 // http://stackoverflow.com/questions/8358196/onfullscreenchange-dom-event
 
 var target = document.getElementById("fullscreen");
-var trigger = document.getElementById("fullscreen-trigger");
+var trigger = document.getElementById("fullscreen-trigger2");
 
 trigger.addEventListener("click", function () {
 	if (target.requestFullscreen) target.requestFullscreen();

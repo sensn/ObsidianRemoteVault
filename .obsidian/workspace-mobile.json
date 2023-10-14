@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "docs/index.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -134,6 +134,8 @@
   },
   "active": "bebc9beb6acb26db",
   "lastOpenFiles": [
+    "docs/Page1.md",
+    "docs/index.md",
     "docs/web_wasm/version.json",
     "docs/web_wasm/manifest.json",
     "docs/web_wasm/main.dart.wasm",
@@ -149,19 +151,16 @@
     "docs/web_wasm/favicon.png",
     "docs/web_wasm/canvaskit/skwasm.worker.js",
     "docs/web_wasm/canvaskit/skwasm.wasm",
-    "docs/web_wasm/canvaskit/skwasm.js",
     "docs/web/icons/Icon-maskable-512.png",
     "docs/web/icons/Icon-maskable-192.png",
     "docs/web/icons/Icon-512.png",
     "docs/web/icons/Icon-192.png",
     "docs/web/favicon.png",
     "docs/tags.md",
-    "docs/index.md",
     "docs/full/new/Page6.md",
     "docs/Page4.md",
     "docs/Page3.md",
     "docs/Page2.md",
-    "docs/Page1.md",
     "docs/Drawing 2023-04-10 17.17.48.excalidraw.md",
     "___Templates/LillyTemplate.md",
     "Excalidraw/ExcaliBrain Snapshot - index.excalidraw.md",
