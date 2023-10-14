@@ -6,14 +6,14 @@ Port of Polyrytm. WEB WASM 1.09
 > [!NOTE]
 > -
 
-Link
+Link https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 
 > [!AI]-  Artyficial
 > Fishers art
 
 
 - [[Page1]]
-- https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
+-
 
 %%
 <iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/web/index.html"></iframe>
