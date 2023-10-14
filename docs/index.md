@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Port of Polyrytm. WEB WASM 1.07
+Port of Polyrytm. WEB WASM 1.08
  
 > [!NOTE]
 > -

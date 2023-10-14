@@ -5,17 +5,23 @@ DONT FORGET TO EDIT THE URL
  background: var(--md-primary-fg-color) url(background_image_link_here&auto=format&fit=crop&w=1074&q=80) left center/cover no-repeat;
 }
 */
+.md-header,
+.md-nav--primary .md-nav__title[for="__drawer"] {
+  background: var(--md-primary-fg-color)
+    url(https://images.unsplash.com/photo-1520157646479-22f25713523d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)
+    left center/cover no-repeat;
+}
 /*
 .md-header,
 .md-nav--primary .md-nav__title[for="__drawer"] {
   background: var(--md-primary-fg-color) url(https://unsplash.com/de/fotos/q1x3cuziBsc&auto=format&fit=crop&w=1374&q=80) left center/cover
 }
 */
-
+/*
 .md-header,
 .md-nav--primary .md-nav__title[for="__drawer"] {
   background: var(--md-primary-fg-color)  url(https://images.unsplash.com/photo-1597647131428-d4a1924a9085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80)
     left center/cover no-repeat;
 }
-
+*/
 
