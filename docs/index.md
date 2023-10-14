@@ -1,14 +1,10 @@
 ---
 share: true
 ---
-Port of Polyrytm. WEB WASM 1.05
-
-%% comment 
-Line
-%%
-
+Port of Polyrytm. WEB WASM 1.06
+ 
 > [!NOTE]
-> 
+> -
 
 
 
@@ -17,7 +13,7 @@ Line
 
 
 - [[Page1]]
-https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
+- https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 
 %%
 <iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/web/index.html"></iframe>
