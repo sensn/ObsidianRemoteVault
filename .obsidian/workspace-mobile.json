@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Page2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/Page2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/Page2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/index.md"
+            "file": "docs/Page2.md"
           }
         }
       }
@@ -134,11 +134,11 @@
   },
   "active": "287238d8ab42c18b",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/assets/meta/favicon.png",
     "docs/assets/meta/logo(1).png",
     "docs/Page4.md",
     "docs/web_wasm/favicon.png",
-    "docs/index.md",
     "Excalidraw/ExcaliBrain Snapshot - index.excalidraw.md",
     "docs/tags.md",
     "docs/assets/img/Excali1.png",
@@ -161,7 +161,6 @@
     "docs/web_wasm/canvaskit/skwasm.wasm",
     "docs/web/icons/Icon-maskable-512.png",
     "docs/web/icons/Icon-maskable-192.png",
-    "docs/web/icons/Icon-512.png",
     "docs/full/new/Page6.md",
     "docs/Page2.md",
     "___Templates/LillyTemplate.md",
