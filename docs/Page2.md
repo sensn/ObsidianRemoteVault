@@ -7,6 +7,8 @@ Link to [[Page1| Uno]]
 ![[IMG-20230404-WA0007.jpg]]
 
 ![[Score1.png]]
+
+!!! Code
 === "C"
 
     ``` c
