@@ -8,7 +8,7 @@ Link to [[Page1| Uno]]
 
 ![[Score1.png]]
 
-!!! Code
+!!! Code tabbed
 === "C"
 
     ``` c
