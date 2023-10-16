@@ -1,15 +1,7 @@
-Lillypond test.
-```lilypond
-% Score1
-\version "2.22.2"
-\language "english"
 
-music = {c' e' g'}
-
-\score {
-		\music
-		\midi { }
-		\layout{ }
-}
-
-```
+/// tab | Tab 1 title 
+Tab 1 content
+///
+/// tab | Tab 2 title 
+Tab 2 content
+///
