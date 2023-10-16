@@ -15,7 +15,7 @@ Link to [[Page1| Uno]]
     #include <stdio.h>
 
     int main(void) {
-      printf("Hello world!\n");
+      printf("Hello worlld!\n");
       return 0;
     }
     ```
