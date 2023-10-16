@@ -1,19 +1,19 @@
 ---
 share: true
 ---
-Port of Polyrytm. WEB WASM 2.0
+Port of Polyrytm. WEB WASM 2.1
  
 > [!NOTE]
 > -
 
-Link https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
+ https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
 
 > [!AI]-  Artyficial
 > Fishers art
 
 
-- [[Page1]]
--
+-[[Page1]]
+
 
 
 <iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/particle_field/index.html"></iframe>
