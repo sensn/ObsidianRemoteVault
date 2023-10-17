@@ -7,11 +7,15 @@ share:true
 > [!AI]-  Artyficial
 > Fishers art
 
- - https://www.febucci.com/2018/08/easing-functions/
-- https://api.flutter.dev/flutter/animation/TweenSequence-class.html
-- https://api.flutter.dev/flutter/material/MaterialPointArcTween-class.html
-- https://github.com/vinayakvivek/flutter-animation-demos/blob/master/lib/widgets/tween_demo.dart
-- https://pub.dev/packages/spritewidget
+  https://www.febucci.com/2018/08/easing-functions/
+ 
+ https://api.flutter.dev/flutter/animation/TweenSequence-class.html
+
+https://api.flutter.dev/flutter/material/MaterialPointArcTween-class.html
+
+https://github.com/vinayakvivek/flutter-animation-demos/blob/master/lib/widgets/tween_demo.dart
+
+https://pub.dev/packages/spritewidget
 frame
 
 <iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/particle_field/"></iframe>
