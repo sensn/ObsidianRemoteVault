@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Page2.md",
+                "file": "docs/index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Page2.md",
+            "file": "docs/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Page2.md",
+            "file": "docs/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/Page2.md"
+            "file": "docs/index.md"
           }
         }
       }
@@ -134,10 +134,10 @@
   },
   "active": "287238d8ab42c18b",
   "lastOpenFiles": [
+    "docs/Page2.md",
     "docs/index.md",
     "docs/Page3.md",
     "docs/Page4.md",
-    "docs/Page2.md",
     "docs/Page1.md",
     "docs/assets/meta/favicon.png",
     "docs/assets/meta/logo(1).png",
