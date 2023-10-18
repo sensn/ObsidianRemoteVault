@@ -3,7 +3,7 @@ share: true
 ---
 This is page one.11
 
-<iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/Digitalgarden/web_wasm/index.html"></iframe>
+<iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/"></iframe>
 
 [[Page2| readme if you can]]
 
