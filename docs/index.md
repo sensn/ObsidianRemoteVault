@@ -5,7 +5,7 @@ share:true
 > -
 
 > [!AI]-  Artyficial
-> Fishers art y
+> Fishers art 
 
   https://www.febucci.com/2018/08/easing-functions/
  
