@@ -5,7 +5,7 @@ share:true
 > -
 
 > [!AI]-  Artyficial
-> Fishers art
+> Fishers art y
 
   https://www.febucci.com/2018/08/easing-functions/
  
@@ -24,7 +24,7 @@ frame
 
 [lib](https://sensn.github.io/DigitalGarden/lib/)
 
-<iframe  id="fullscreen" width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/element_embedding_demo/index.html" style="border: 1px solid #464646;" allowfullscreen=""  data-external="1"></iframe>
+<iframe  id="fullscreen" width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/web/index.html" style="border: 1px solid #464646;" allowfullscreen=""  data-external="1"></iframe>
 
 <div id="fullscreen1">
 
