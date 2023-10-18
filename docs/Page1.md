@@ -3,6 +3,8 @@ share: true
 ---
 This is page one.11
 
+<iframe width="720" height="400" scrolling="no" src="https://sensn.github.io/Digitalgarden/web_wasm/index.html"></iframe>
+
 [[Page2| readme if you can]]
 
 https://suragch.medium.com/working-with-bytes-in-dart-6ece83455721
