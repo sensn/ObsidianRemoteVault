@@ -1,6 +1,6 @@
 listen to  [[loopermanl3.WAV]]
 
-<iframe  id="fullscreen" width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/web_wasm/" style="border: 1px solid #464646;" allowfullscreen=""  data-external="1"></iframe>
+<iframe  id="fullscreen" width="720" height="400" scrolling="no" src="127.0.0.1:8080" style="border: 1px solid #464646;" allowfullscreen=""  data-external="1"></iframe>
 
 <div id="fullscreen1">
 
