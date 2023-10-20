@@ -27,27 +27,24 @@
           });
         }
 
-        const mySynth = WebMidi.inputs[1]; 
-        //let myOutput = WebMidi.outputs[1];
-        let myOutput = WebMidi.getOutputByName("Midi Through Port-0");
+//
+        const mySynth = WebMidi.inputs[0]; 
+	// const mySynth = WebMidi.getInputByName("TYPE NAME HERE!")
+       let myOutput = WebMidi.outputs[0];
+   
+       // let myOutput = WebMidi.getOutputByName("Midi Through Port-0");
        // const myOutput = WebMidi.getOutputByName("SAMSUNG_Android MIDI 1");
      
-        // const mySynth = WebMidi.getInputByName("TYPE NAME HERE!")
         let channel = myOutput.channels[1];
+        // let voc = myOutput.channels[11];
         
         mySynth.channels[1].addListener("noteon", e => {
           document.body.innerHTML+= `${e.note.identifier} <br>`;
-          myOutput.channel.playNote("A3").sendControlChange(72, 64);
+        // channel.playNote("A3").sendControlChange(7, 64);
         });
-//const inputChannel = WebMidi.inputs[1].channels[1];
-//const outputChannel = WebMidi.outputs[0];
-//outputChannel.sendNoteOn(30);
-//inputChannel.addListener("noteon", e => channel.playNote("D3"));
-//inputChannel.addListener("noteon", e => outputChannel.sendNoteOn(e.note));
-	
 
-//const myOutput = WebMidi.getOutputById();
-//	myOutput.sendAllSoundOff();
+	channel.playNote("A3").sendControlChange(7, 64);
+        channel.sendAllSoundOff();
 
       }
 
