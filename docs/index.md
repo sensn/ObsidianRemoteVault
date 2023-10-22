@@ -2,7 +2,7 @@
 share:true
 ---
 > [!NOTE]
-> - 1.1
+> - 1.
 
 > [!AI]-  Artyficial
 > Fishers art 
