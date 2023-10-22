@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Page1.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Page1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Page1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Page1.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c80adf0cb50751d2",
+  "active": "9d2aa4ccbfdd8c7a",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/element_web/js/demo-js-interop.js",
     "docs/element_web/js/demo-css-fx.js",
     "docs/element_web/js",
@@ -166,14 +167,12 @@
     "docs/element_web/fonts",
     "docs/element_web/css/style.css",
     "docs/element_web/css",
-    "docs/element_web/version.json",
     "docs/element_web/assets/assets/dash.png",
     "docs/Page5.md",
     "docs/Page4.md",
     "docs/Page3.md",
     "docs/Page2.md",
     "docs/Page1.md",
-    "docs/index.md",
     "docs/web_element_embedding/icons/nail.png",
     "docs/web_element_embedding/icons/unsplash-x9WGMWwp1NM.png",
     "Untitled.md",
