@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Page1.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Page1.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Page1.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Page1.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -149,36 +149,35 @@
   },
   "active": "9d2aa4ccbfdd8c7a",
   "lastOpenFiles": [
-    "docs/web_element_embedding/js/demo-js-interop.js",
-    "docs/web_element_embedding/js/demo-css-fx.js",
-    "docs/web_element_embedding/js",
-    "docs/web_element_embedding/icons/Icon-512.png",
-    "docs/web_element_embedding/icons/unsplash-x9WGMWwp1NM.png",
-    "docs/web_element_embedding/icons/nail.png",
-    "docs/web_element_embedding/icons/Icon-maskable-512.png",
-    "docs/web_element_embedding/icons/Icon-maskable-192.png",
-    "docs/web_element_embedding/icons/Icon-192.png",
-    "docs/web_element_embedding/icons/favicon.png",
-    "docs/web_element_embedding/icons",
-    "docs/web_element_embedding/fonts/OFL.txt",
-    "docs/web_element_embedding/fonts/DMSans-Regular.ttf",
-    "docs/web_element_embedding/fonts/DMSans-Bold.ttf",
-    "docs/web_element_embedding/fonts",
-    "docs/web_element_embedding/css/style.css",
-    "docs/web_element_embedding/css",
-    "docs/web_element_embedding/canvaskit/chromium/canvaskit.wasm",
-    "docs/web_element_embedding/assets/assets/dash.png",
-    "docs/Page2.md",
     "docs/Page5.md",
-    "docs/index.md",
     "docs/Page4.md",
-    "docs/web/icons/unsplash-x9WGMWwp1NM.png",
-    "docs/web/icons/nail.png",
+    "docs/Page3.md",
+    "docs/Page2.md",
     "docs/Page1.md",
+    "docs/index.md",
+    "element_web/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
+    "element_web/assets/packages/cupertino_icons/assets",
+    "element_web/assets/shaders/ink_sparkle.frag",
+    "element_web/assets/packages/cupertino_icons",
+    "element_web/assets/fonts/MaterialIcons-Regular.otf",
+    "element_web/assets/assets/dash.png",
+    "element_web/assets/shaders",
+    "element_web/assets/packages",
+    "element_web/assets/NOTICES",
+    "element_web/assets/fonts",
+    "element_web/assets/FontManifest.json",
+    "element_web/icons/unsplash-x9WGMWwp1NM.png",
+    "element_web/icons/nail.png",
+    "element_web/icons/Icon-maskable-512.png",
+    "element_web/icons/Icon-maskable-192.png",
+    "element_web/icons/Icon-512.png",
+    "element_web/icons/Icon-192.png",
+    "element_web/icons/favicon.png",
+    "docs/web_element_embedding/icons/nail.png",
+    "docs/web_element_embedding/icons/unsplash-x9WGMWwp1NM.png",
     "Untitled.md",
     "Excalidraw/Drawing 2023-04-12 10.10.40.excalidraw.md",
     "docs/tags.md",
-    "docs/Page3.md",
     "___Templates/LillyTemplate.md"
   ]
 }

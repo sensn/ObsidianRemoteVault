@@ -1,6 +1,6 @@
 
 
-<iframe  id="fullscreen" width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/web_element_embedding/" style="border: 1px solid #464646;" allowfullscreen=""  data-external="1"></iframe>
+<iframe  id="fullscreen" width="720" height="400" scrolling="no" src="https://sensn.github.io/DigitalGarden/element_web/" style="border: 1px solid #464646;" allowfullscreen=""  data-external="1"></iframe>
 
 <div id="fullscreen1">
 
