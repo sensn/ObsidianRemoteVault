@@ -25,5 +25,6 @@
     "editor:cycle-list-checklist",
     "editor:toggle-comments"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }

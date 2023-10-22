@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Page1.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Page5.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Page1.md",
+                "file": "docs/Page5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Page1.md",
+                "file": "docs/Page5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Page1.md"
+                "file": "docs/Page5.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -148,35 +149,34 @@
   },
   "active": "9d2aa4ccbfdd8c7a",
   "lastOpenFiles": [
-    "docs/web/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
-    "docs/web/assets/packages/cupertino_icons/assets",
-    "docs/web/canvaskit/chromium/canvaskit.wasm",
-    "docs/web/canvaskit/chromium/canvaskit.js",
-    "docs/web/assets/shaders/ink_sparkle.frag",
-    "docs/web/assets/packages/cupertino_icons",
-    "docs/web/assets/fonts/MaterialIcons-Regular.otf",
-    "docs/web/assets/assets/dash.png",
-    "docs/web/js/demo-js-interop.js",
-    "docs/web/js/demo-css-fx.js",
+    "docs/Page4.md",
+    "docs/Page1.md",
+    "docs/web_element_embedding/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
+    "docs/web_element_embedding/assets/packages/cupertino_icons/assets",
+    "docs/web_element_embedding/assets/assets/dash.png",
+    "docs/web_element_embedding/canvaskit/chromium/canvaskit.wasm",
+    "docs/web_element_embedding/canvaskit/chromium/canvaskit.js",
+    "docs/web_element_embedding/assets/shaders/ink_sparkle.frag",
+    "docs/web_element_embedding/assets/packages/cupertino_icons",
+    "docs/web_element_embedding/assets/fonts/MaterialIcons-Regular.otf",
+    "docs/web_element_embedding/js/demo-js-interop.js",
+    "docs/web_element_embedding/js/demo-css-fx.js",
+    "docs/web_element_embedding/icons/unsplash-x9WGMWwp1NM.png",
+    "docs/web_element_embedding/icons/nail.png",
+    "docs/web_element_embedding/icons/Icon-maskable-512.png",
+    "docs/web_element_embedding/icons/Icon-maskable-192.png",
+    "docs/web_element_embedding/icons/Icon-192.png",
+    "docs/web_element_embedding/icons/Icon-512.png",
+    "docs/web_element_embedding/icons/favicon.png",
+    "docs/web_element_embedding/fonts/OFL.txt",
     "docs/web/icons/unsplash-x9WGMWwp1NM.png",
     "docs/web/icons/nail.png",
-    "docs/web/icons/Icon-maskable-512.png",
-    "docs/web/icons/Icon-maskable-192.png",
-    "docs/web/icons/Icon-512.png",
-    "docs/web/icons/Icon-192.png",
-    "docs/web/icons/favicon.png",
-    "docs/web/fonts/OFL.txt",
-    "docs/web/fonts/DMSans-Regular.ttf",
-    "docs/web/web/icons/unsplash-x9WGMWwp1NM.png",
-    "docs/web/web/icons/nail.png",
     "Untitled.md",
     "Excalidraw/Drawing 2023-04-12 10.10.40.excalidraw.md",
     "docs/tags.md",
     "docs/Page5.md",
-    "docs/Page4.md",
     "docs/Page3.md",
     "docs/Page2.md",
-    "docs/Page1.md",
     "docs/index.md",
     "___Templates/LillyTemplate.md"
   ]
