@@ -1,0 +1,59 @@
+{
+  "callouts": {
+    "custom": [
+      "mycallout"
+    ],
+    "settings": {
+      "mycallout": [
+        {
+          "changes": {
+            "icon": "lucide-activity"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 255, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 0, 255"
+          }
+        }
+      ],
+      "example": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 255, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 173, 173"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
